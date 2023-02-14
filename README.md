@@ -1,3 +1,3 @@
 # JavahelloWorld
 javac HelloWorld
-java HelloWorld
+java HelloWorld!
